@@ -3,7 +3,7 @@
   // L'ANIMATION :
 
   // ---
-  var text1 = "texte dnumero 1", /*"Quand tu sortiras de ta bibliotheque cherie, sache que tu dors dans le salon. Y a un de mes eleves qui squatte ta chambre !",*/
+  var text1 = "Quand tu sortiras de ta bibliotheque cherie, sache que tu dors dans le salon. Y a un de mes eleves qui squatte ta chambre !",
       text2 = "Combien ils te payent, deja, pour pas dormir ?",
       keyboard,
       restartBtn,
@@ -44,11 +44,6 @@
   function restartHandler(e){
     e.preventDefault();
     e.stopPropagation();
-
-    console.log("FUCK !");
-    console.log("nextStep : "+nextStep);
-    console.log("step : "+step);
-
 
     if(!nextStep){
       init();

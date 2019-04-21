@@ -6,11 +6,11 @@
   top: 0;
 }
 .step1 #header {
-  background: red url("./img/sms-sam-2128-Hugo.jpg");
+  background: url("./img/sms-sam-2128-Hugo.jpg");
   background-size: 100%;
 }
 .step2 #header {
-  background: red url("./img/sms-sam-2128-Anna.jpg");
+  background: url("./img/sms-sam-2128-Anna.jpg");
   background-size: 100%;
 }
 .sended  #header {

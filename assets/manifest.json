@@ -1,7 +1,7 @@
 {
-	"name": "SAM-iPhone6-sms-1",
-	"short_name": "Progressive Web App : SAM-iPhone6-sms-1",
-	"description": "Progressive Web App for 2319",
+	"name": "SAM-iPhone6-sms-2",
+	"short_name": "SAM-sms-2",
+	"description": "Progressive Web App for 2128",
 	"start_url": "./index.html?utm=homescreen",
 	"display": "standalone",
 	"background_color": "#f5f5f5",

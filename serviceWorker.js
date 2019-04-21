@@ -1,7 +1,7 @@
 //Cache polyfil to support cacheAPI in all browsers
 importScripts('./assets/cache-polyfill.js');
 
-var cacheName = 'SAM-iPhone6-sms-2-v0';
+var cacheName = 'SAM-iPhone6-sms-2-v1';
 
 //Files to save in cache
 var files = [
@@ -17,8 +17,8 @@ var files = [
   './assets/img/arraw.gif',
   './assets/img/icon.svg',
   './assets/reset.css',
-  './assets/main.css',
-  './assets/main.js',
+  './assets/sms-2.css',
+  './assets/sms-2.js',
   './assets/manifest.json'
 ];
 
