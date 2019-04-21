@@ -113,8 +113,9 @@
         translatex;
     translatex = -((availableWidth - availableWidth*scale)/2 + 3);
     theBody = document.querySelector("body");
-    if(scale===1){
+    if(scale>=1){
         translatex = 0;
+        scale=1;
     }
     theBody.style.transform="scale("+scale+") translateX("+translatex+"px)";
   }
