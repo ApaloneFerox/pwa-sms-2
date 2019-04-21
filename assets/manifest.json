@@ -1,0 +1,30 @@
+{
+	"name": "SAM-iPhone6-sms-1",
+	"short_name": "Progressive Web App : SAM-iPhone6-sms-1",
+	"description": "Progressive Web App for 2319",
+	"start_url": "./index.html?utm=homescreen",
+	"display": "standalone",
+	"background_color": "#f5f5f5",
+	"theme_color": "#EFE539",
+	"icons": [
+		{
+			"src": "./img/icon-144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "./img/icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./img/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"author": {
+		"name": "ApaloneFerox",
+		"website": "https://github.com/ApaloneFerox"
+	}
+}
