@@ -20,8 +20,8 @@ document.addEventListener(
   // L'ANIMATION :
 
   // ---
-  var text1 = "Quand tu sortiras de ta bibliotheque cherie, sache que tu dors dans le salon. Y a un de mes eleves qui squatte ta chambre !",
-      text2 = "Combien ils te payent, deja, pour pas dormir ?",
+  var text1 = "Quand tu sortiras de la bibliothèque, sache que tu dors dans le salon. Y' a un de mes élèves qui squatte ta chambre !!",
+      text2 = "Combien ils te payent, déjà, pour pas dormir ??",
       keyboard,
       restartBtn,
       message,
